@@ -11,3 +11,9 @@ puts name
  pink = "pink"
  
  puts pink
+ 
+ light_on = false 
+ puts light_on
+ light_on = true
+ puts light_on
+ 
