@@ -18,4 +18,4 @@ puts name
  puts light_on
  
  #puts this is a comment
- puts " im name and im number years old."
+ puts " im 'name' and im 'number' years old."
